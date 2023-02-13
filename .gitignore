@@ -1,0 +1,30 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+#### 通配符方式去除target文件 ####
+*/target/
+#### 通配符方式去除target文件 ####
+*/*/target/
+
+#### eclipse ####
+.settings/
+.project
+.classpath
+bin/
+.mvn/
+classes/
+target/
+out/
+*.depend
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+log.path.*
